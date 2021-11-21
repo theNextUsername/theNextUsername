@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @theNextUsername
-- 👀 I’m interested in pretty much everything
-- 🌱 I’m currently re-learning my lost skills
+- 👀 I’m interested in cybersecurity, anonymity software, graphic design, and 3D rendering.
+- 🌱 I’m currently learning the Rust programming language
 - 💞️ I’m looking to collaborate on anything that looks interesting
 - 📫 How to reach me:
   -email: thenextusername@outlook.com
