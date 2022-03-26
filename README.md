@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning the Rust programming language
 - 💞️ I’m looking to collaborate on anything that looks interesting
 - 📫 How to reach me:
-  -email: thenextusername@outlook.com
+  -email: thenextusername@protonmail.com
   -phone: N/A
   -webiste: N/A
 
