@@ -5,7 +5,7 @@
 - 📫 How to reach me:
   -email: thenextusername@protonmail.com
   -phone: N/A
-  -webiste: N/A
+  -webiste: https://thenextusername.xyz
 
 <!---
 theNextUsername/theNextUsername is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
