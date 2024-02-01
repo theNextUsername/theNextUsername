@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @theNextUsername
-- 👀 I’m interested in cybersecurity, anonymity software, graphic design, and 3D rendering.
-- 🌱 I’m currently learning the Rust programming language
+- 👀 I’m interested in Network Security, Homelabs, and Full Stack Development.
+- 🌱 I’m currently working on getting my website up and running: https://thenextusername.xyz
 - 💞️ I’m looking to collaborate on anything that looks interesting
 - 📫 How to reach me:
   -email: thenextusername@protonmail.com
