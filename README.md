@@ -3,7 +3,7 @@
 - 🌱 I’m currently working on getting my website up and running: https://thenextusername.xyz
 - 💞️ I’m looking to collaborate on anything that looks interesting
 - 📫 How to reach me:
-  -email: thenextusername@protonmail.com
+  -email: thenextusername@thenextusername.xyz
   -phone: N/A
   -webiste: https://thenextusername.xyz
 
